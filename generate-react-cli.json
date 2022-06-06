@@ -1,0 +1,79 @@
+{
+  "usesTypeScript": false,
+  "usesCssModule": false,
+  "cssPreprocessor": "scss",
+  "testLibrary": "None",
+  "component": {
+    "default": {
+      "path": "src/pages/Class8/Science",
+      "withStyle": false,
+      "withTest": false,
+      "withStory": false,
+      "withLazy": false,
+      "withIndex": true,
+      "customTemplates" : {
+        "component" : "templates/VizBook1.js",
+        "index" : "templates/Common.elements.js"
+      }
+    },
+    "supportfiles1": {
+      "path": "src/pages/Class8/Science",
+      "withStyle": false,
+      "withTest": false,
+      "withStory": false,
+      "withLazy": false,
+      "withIndex": true,
+      "customTemplates" : {
+        "component" : "templates/Navfunction.js",
+        "index" : "templates/Pagebarfunction.js"
+      }
+    },
+    "supportfiles2": {
+      "path": "src/pages/Class8/Science",
+      "withStyle": false,
+      "withTest": false,
+      "withStory": false,
+      "withLazy": false,
+      "withIndex": true,
+      "customTemplates" : {
+        "component" : "templates/ChapterInfo.js",
+        "index" : "templates/PageIcons.js"
+      }
+    },
+    "supportfiles3": {
+      "path": "src/pages/Class8/Science",
+      "withStyle": false,
+      "withTest": false,
+      "withStory": false,
+      "withLazy": false,
+      "withIndex": false,
+      "customTemplates" : {
+        "component" : "templates/VizBookTOC.js"
+      }
+    },
+    "pages1": {
+      "path": "src/pages/Class8/Science",
+      "withStyle": false,
+      "withTest": false,
+      "withStory": false,
+      "withLazy": false,
+      "withIndex": true,
+      "customTemplates" : {
+        "component" : "templates/VizBook2.js",
+        "index" : "templates/VizBook3.js"
+      }
+    },
+    "pages2": {
+      "path": "src/pages/Class8/Science",
+      "withStyle": false,
+      "withTest": false,
+      "withStory": false,
+      "withLazy": false,
+      "withIndex": true,
+      "customTemplates" : {
+        "component" : "templates/VizBook4.js",
+        "index" : "templates/VizBook5.js"
+      }
+    }
+  }
+}
